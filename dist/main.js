@@ -1,0 +1,1 @@
+(new Game).start(),console.log("app worked");
